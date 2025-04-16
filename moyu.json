@@ -4,6 +4,27 @@
   "logo": "https://raw.gitmirror.com/kai230/pg/main/20250109175106182.jpg",
   "warningText": "自用，请勿分享",
   "sites": [
+     {
+      "key": "热播",
+      "name": "📺热播┃多线┃纯净",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "可可",
+      "name": "👻可可┃多线┃纯净",
+      "type": 3,
+      "api": "csp_Kekys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "豆豆",
       "name": "豆瓣推荐",
@@ -629,27 +650,7 @@
       "changeable": 1,
       "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
     },
-    {
-      "key": "热播",
-      "name": "📺热播┃多线┃纯净",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
-    {
-      "key": "可可",
-      "name": "👻可可┃多线┃纯净",
-      "type": 3,
-      "api": "csp_Kekys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
     {
       "key": "zxzj",
       "name": "🍊在线┃外剧┃纯净",
